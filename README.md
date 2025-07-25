@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **upendra99bhanushali@gmail.com**
 
-- ⚡ Fun fact **actually haven't found yet**
+- ⚡ Fun fact **the first computer bug was literally an insect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
