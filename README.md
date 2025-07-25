@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psylon-ro&show_icons=true&locale=en&layout=compact" alt="upendrabhanushali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psylon-ro&show_icons=true&locale=en" alt="upendrabhanushali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psylon-ro&" alt="upendrabhanushali" /></p>
