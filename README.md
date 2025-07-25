@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at UBS
+- 🔭 I’m currently looking for an SDE position job at your organisation!
   
-- 🌱 I’m currently exploring **Supabase**
+- 🌱 I’m currently exploring **Convex**
 
 - 💬 Ask me about **Java, JavaScript, Reactjs, Springboot, Nodejs, Material-UI, MongoDB, MySQL**
 
